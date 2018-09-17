@@ -1,0 +1,6 @@
+c:\users\rosickyli\documents\visual studio 2015\Projects\AttributeLearning\AttributeLearning\bin\Debug\AttributeLearning.exe.config
+c:\users\rosickyli\documents\visual studio 2015\Projects\AttributeLearning\AttributeLearning\bin\Debug\AttributeLearning.exe
+c:\users\rosickyli\documents\visual studio 2015\Projects\AttributeLearning\AttributeLearning\bin\Debug\AttributeLearning.pdb
+c:\users\rosickyli\documents\visual studio 2015\Projects\AttributeLearning\AttributeLearning\obj\Debug\AttributeLearning.csprojResolveAssemblyReference.cache
+c:\users\rosickyli\documents\visual studio 2015\Projects\AttributeLearning\AttributeLearning\obj\Debug\AttributeLearning.exe
+c:\users\rosickyli\documents\visual studio 2015\Projects\AttributeLearning\AttributeLearning\obj\Debug\AttributeLearning.pdb
